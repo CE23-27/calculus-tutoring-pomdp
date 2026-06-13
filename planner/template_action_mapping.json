@@ -1,0 +1,2112 @@
+{
+    "264": {
+        "instruct": 4,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 5,
+        "guide": 2,
+        "connect": 2,
+        "affirm": 2
+    },
+    "405": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 10,
+        "listen": 0,
+        "probe": 19,
+        "guide": 19,
+        "connect": 7,
+        "affirm": 85
+    },
+    "320": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "407": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 3,
+        "guide": 9,
+        "connect": 1,
+        "affirm": 11
+    },
+    "334": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "371": {
+        "instruct": 17,
+        "practice": 0,
+        "correct": 5,
+        "listen": 3,
+        "probe": 58,
+        "guide": 252,
+        "connect": 1456,
+        "affirm": 302
+    },
+    "447": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 1,
+        "probe": 0,
+        "guide": 3,
+        "connect": 1,
+        "affirm": 4
+    },
+    "335": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "362": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 24,
+        "guide": 17,
+        "connect": 7,
+        "affirm": 19
+    },
+    "326": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 4,
+        "listen": 1,
+        "probe": 61,
+        "guide": 34,
+        "connect": 16,
+        "affirm": 51
+    },
+    "299": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 8,
+        "listen": 0,
+        "probe": 29,
+        "guide": 65,
+        "connect": 5,
+        "affirm": 46
+    },
+    "435": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "403": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 2,
+        "connect": 0,
+        "affirm": 9
+    },
+    "332": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 10,
+        "guide": 16,
+        "connect": 0,
+        "affirm": 33
+    },
+    "270": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 4,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 6
+    },
+    "453": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "287": {
+        "instruct": 4,
+        "practice": 4,
+        "correct": 39,
+        "listen": 82,
+        "probe": 404,
+        "guide": 1058,
+        "connect": 86,
+        "affirm": 2255
+    },
+    "297": {
+        "instruct": 4,
+        "practice": 1,
+        "correct": 14,
+        "listen": 0,
+        "probe": 40,
+        "guide": 34,
+        "connect": 12,
+        "affirm": 45
+    },
+    "340": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 5
+    },
+    "278": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 4,
+        "listen": 1,
+        "probe": 54,
+        "guide": 16,
+        "connect": 1,
+        "affirm": 60
+    },
+    "289": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 21,
+        "listen": 18,
+        "probe": 86,
+        "guide": 308,
+        "connect": 17,
+        "affirm": 430
+    },
+    "250": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 3,
+        "guide": 6,
+        "connect": 5,
+        "affirm": 5
+    },
+    "356": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 7,
+        "listen": 4,
+        "probe": 71,
+        "guide": 62,
+        "connect": 7,
+        "affirm": 76
+    },
+    "265": {
+        "instruct": 17,
+        "practice": 0,
+        "correct": 10,
+        "listen": 0,
+        "probe": 177,
+        "guide": 160,
+        "connect": 92,
+        "affirm": 79
+    },
+    "305": {
+        "instruct": 12,
+        "practice": 4,
+        "correct": 41,
+        "listen": 4,
+        "probe": 170,
+        "guide": 253,
+        "connect": 111,
+        "affirm": 583
+    },
+    "449": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 6,
+        "connect": 1,
+        "affirm": 1
+    },
+    "394": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 7,
+        "guide": 26,
+        "connect": 1,
+        "affirm": 9
+    },
+    "258": {
+        "instruct": 41,
+        "practice": 0,
+        "correct": 21,
+        "listen": 5,
+        "probe": 311,
+        "guide": 298,
+        "connect": 290,
+        "affirm": 333
+    },
+    "328": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 3,
+        "guide": 4,
+        "connect": 0,
+        "affirm": 1
+    },
+    "387": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 4,
+        "listen": 2,
+        "probe": 23,
+        "guide": 31,
+        "connect": 3,
+        "affirm": 80
+    },
+    "416": {
+        "instruct": 7,
+        "practice": 19,
+        "correct": 48,
+        "listen": 35,
+        "probe": 914,
+        "guide": 1186,
+        "connect": 192,
+        "affirm": 509
+    },
+    "443": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "424": {
+        "instruct": 2,
+        "practice": 1,
+        "correct": 6,
+        "listen": 3,
+        "probe": 190,
+        "guide": 282,
+        "connect": 42,
+        "affirm": 165
+    },
+    "450": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 1
+    },
+    "359": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 5,
+        "guide": 21,
+        "connect": 0,
+        "affirm": 5
+    },
+    "321": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 9,
+        "connect": 2,
+        "affirm": 6
+    },
+    "358": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 13,
+        "guide": 6,
+        "connect": 3,
+        "affirm": 9
+    },
+    "253": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 9,
+        "listen": 5,
+        "probe": 159,
+        "guide": 211,
+        "connect": 78,
+        "affirm": 65
+    },
+    "302": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 2,
+        "listen": 1,
+        "probe": 6,
+        "guide": 24,
+        "connect": 1,
+        "affirm": 33
+    },
+    "415": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 8,
+        "guide": 2,
+        "connect": 6,
+        "affirm": 66
+    },
+    "446": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 14,
+        "connect": 3,
+        "affirm": 3
+    },
+    "404": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 3
+    },
+    "311": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 3
+    },
+    "390": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 25,
+        "guide": 18,
+        "connect": 7,
+        "affirm": 21
+    },
+    "372": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 3,
+        "listen": 3,
+        "probe": 54,
+        "guide": 75,
+        "connect": 151,
+        "affirm": 178
+    },
+    "315": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 11,
+        "guide": 29,
+        "connect": 1,
+        "affirm": 41
+    },
+    "448": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 1,
+        "probe": 11,
+        "guide": 33,
+        "connect": 5,
+        "affirm": 70
+    },
+    "293": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 6,
+        "probe": 37,
+        "guide": 91,
+        "connect": 5,
+        "affirm": 108
+    },
+    "298": {
+        "instruct": 12,
+        "practice": 3,
+        "correct": 26,
+        "listen": 6,
+        "probe": 219,
+        "guide": 174,
+        "connect": 74,
+        "affirm": 305
+    },
+    "366": {
+        "instruct": 83,
+        "practice": 9,
+        "correct": 171,
+        "listen": 241,
+        "probe": 1751,
+        "guide": 1362,
+        "connect": 1665,
+        "affirm": 2285
+    },
+    "419": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 1,
+        "guide": 9,
+        "connect": 5,
+        "affirm": 6
+    },
+    "421": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 6
+    },
+    "380": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 1,
+        "probe": 4,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 1
+    },
+    "323": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 16,
+        "guide": 7,
+        "connect": 2,
+        "affirm": 12
+    },
+    "318": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 24,
+        "guide": 35,
+        "connect": 18,
+        "affirm": 28
+    },
+    "333": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "363": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "350": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 1,
+        "guide": 2,
+        "connect": 0,
+        "affirm": 1
+    },
+    "292": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 9,
+        "guide": 44,
+        "connect": 7,
+        "affirm": 30
+    },
+    "399": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 2,
+        "connect": 0,
+        "affirm": 2
+    },
+    "266": {
+        "instruct": 4,
+        "practice": 1,
+        "correct": 31,
+        "listen": 4,
+        "probe": 205,
+        "guide": 97,
+        "connect": 45,
+        "affirm": 91
+    },
+    "268": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 36,
+        "guide": 22,
+        "connect": 3,
+        "affirm": 33
+    },
+    "252": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 16,
+        "listen": 8,
+        "probe": 825,
+        "guide": 556,
+        "connect": 126,
+        "affirm": 155
+    },
+    "357": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 3,
+        "listen": 4,
+        "probe": 40,
+        "guide": 75,
+        "connect": 12,
+        "affirm": 53
+    },
+    "341": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 11,
+        "guide": 7,
+        "connect": 1,
+        "affirm": 11
+    },
+    "417": {
+        "instruct": 2,
+        "practice": 4,
+        "correct": 12,
+        "listen": 6,
+        "probe": 255,
+        "guide": 851,
+        "connect": 73,
+        "affirm": 211
+    },
+    "441": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 2,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 10
+    },
+    "272": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 1,
+        "affirm": 1
+    },
+    "426": {
+        "instruct": 7,
+        "practice": 4,
+        "correct": 12,
+        "listen": 1,
+        "probe": 71,
+        "guide": 82,
+        "connect": 68,
+        "affirm": 70
+    },
+    "379": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 75,
+        "listen": 0,
+        "probe": 15,
+        "guide": 4,
+        "connect": 2,
+        "affirm": 15
+    },
+    "361": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 2,
+        "affirm": 8
+    },
+    "261": {
+        "instruct": 7,
+        "practice": 0,
+        "correct": 6,
+        "listen": 4,
+        "probe": 65,
+        "guide": 57,
+        "connect": 19,
+        "affirm": 97
+    },
+    "456": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 5
+    },
+    "254": {
+        "instruct": 4,
+        "practice": 0,
+        "correct": 12,
+        "listen": 5,
+        "probe": 222,
+        "guide": 206,
+        "connect": 74,
+        "affirm": 263
+    },
+    "300": {
+        "instruct": 3,
+        "practice": 2,
+        "correct": 8,
+        "listen": 4,
+        "probe": 187,
+        "guide": 360,
+        "connect": 68,
+        "affirm": 198
+    },
+    "257": {
+        "instruct": 17,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 41,
+        "guide": 81,
+        "connect": 27,
+        "affirm": 47
+    },
+    "397": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 1
+    },
+    "337": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 2,
+        "affirm": 1
+    },
+    "354": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 6,
+        "listen": 1,
+        "probe": 28,
+        "guide": 47,
+        "connect": 7,
+        "affirm": 39
+    },
+    "282": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 11,
+        "guide": 6,
+        "connect": 1,
+        "affirm": 9
+    },
+    "396": {
+        "instruct": 8,
+        "practice": 0,
+        "correct": 25,
+        "listen": 5,
+        "probe": 211,
+        "guide": 138,
+        "connect": 48,
+        "affirm": 577
+    },
+    "260": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 24,
+        "listen": 5,
+        "probe": 170,
+        "guide": 133,
+        "connect": 47,
+        "affirm": 80
+    },
+    "369": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 14,
+        "listen": 6,
+        "probe": 364,
+        "guide": 154,
+        "connect": 159,
+        "affirm": 75
+    },
+    "423": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 2,
+        "affirm": 2
+    },
+    "317": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 9,
+        "guide": 5,
+        "connect": 9,
+        "affirm": 17
+    },
+    "329": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "373": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 4,
+        "connect": 4,
+        "affirm": 20
+    },
+    "401": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 1
+    },
+    "283": {
+        "instruct": 2,
+        "practice": 1,
+        "correct": 196,
+        "listen": 15,
+        "probe": 298,
+        "guide": 101,
+        "connect": 12,
+        "affirm": 64
+    },
+    "276": {
+        "instruct": 2,
+        "practice": 2,
+        "correct": 212,
+        "listen": 54,
+        "probe": 295,
+        "guide": 267,
+        "connect": 12,
+        "affirm": 294
+    },
+    "246": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 2,
+        "listen": 1,
+        "probe": 296,
+        "guide": 340,
+        "connect": 92,
+        "affirm": 50
+    },
+    "316": {
+        "instruct": 11,
+        "practice": 0,
+        "correct": 81,
+        "listen": 6,
+        "probe": 320,
+        "guide": 180,
+        "connect": 137,
+        "affirm": 204
+    },
+    "365": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 3,
+        "connect": 1,
+        "affirm": 2
+    },
+    "263": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 0,
+        "guide": 2,
+        "connect": 0,
+        "affirm": 10
+    },
+    "375": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 3,
+        "guide": 3,
+        "connect": 2,
+        "affirm": 6
+    },
+    "295": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 9,
+        "probe": 53,
+        "guide": 117,
+        "connect": 8,
+        "affirm": 95
+    },
+    "307": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 28,
+        "guide": 31,
+        "connect": 13,
+        "affirm": 13
+    },
+    "378": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 75,
+        "listen": 0,
+        "probe": 68,
+        "guide": 13,
+        "connect": 5,
+        "affirm": 6
+    },
+    "425": {
+        "instruct": 0,
+        "practice": 2,
+        "correct": 1,
+        "listen": 0,
+        "probe": 3,
+        "guide": 6,
+        "connect": 6,
+        "affirm": 3
+    },
+    "386": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 6,
+        "guide": 5,
+        "connect": 1,
+        "affirm": 8
+    },
+    "368": {
+        "instruct": 4,
+        "practice": 0,
+        "correct": 3,
+        "listen": 1,
+        "probe": 9,
+        "guide": 6,
+        "connect": 21,
+        "affirm": 109
+    },
+    "376": {
+        "instruct": 5,
+        "practice": 0,
+        "correct": 1024,
+        "listen": 10,
+        "probe": 402,
+        "guide": 166,
+        "connect": 31,
+        "affirm": 73
+    },
+    "411": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 9,
+        "listen": 1,
+        "probe": 62,
+        "guide": 20,
+        "connect": 5,
+        "affirm": 25
+    },
+    "436": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 2,
+        "guide": 4,
+        "connect": 0,
+        "affirm": 1
+    },
+    "440": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 4,
+        "guide": 2,
+        "connect": 3,
+        "affirm": 14
+    },
+    "301": {
+        "instruct": 0,
+        "practice": 4,
+        "correct": 10,
+        "listen": 16,
+        "probe": 54,
+        "guide": 101,
+        "connect": 24,
+        "affirm": 304
+    },
+    "455": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 1,
+        "guide": 5,
+        "connect": 0,
+        "affirm": 4
+    },
+    "413": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "309": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 9,
+        "guide": 14,
+        "connect": 13,
+        "affirm": 26
+    },
+    "400": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 3
+    },
+    "388": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 1,
+        "affirm": 2
+    },
+    "367": {
+        "instruct": 48,
+        "practice": 2,
+        "correct": 21,
+        "listen": 4,
+        "probe": 134,
+        "guide": 154,
+        "connect": 197,
+        "affirm": 411
+    },
+    "382": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "402": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "296": {
+        "instruct": 6,
+        "practice": 3,
+        "correct": 35,
+        "listen": 4,
+        "probe": 168,
+        "guide": 187,
+        "connect": 53,
+        "affirm": 265
+    },
+    "392": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 1,
+        "affirm": 0
+    },
+    "381": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 2,
+        "listen": 1,
+        "probe": 1,
+        "guide": 11,
+        "connect": 0,
+        "affirm": 29
+    },
+    "439": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 0,
+        "listen": 1,
+        "probe": 4,
+        "guide": 7,
+        "connect": 4,
+        "affirm": 12
+    },
+    "347": {
+        "instruct": 6,
+        "practice": 2,
+        "correct": 18,
+        "listen": 6,
+        "probe": 143,
+        "guide": 173,
+        "connect": 47,
+        "affirm": 255
+    },
+    "451": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 16,
+        "guide": 21,
+        "connect": 9,
+        "affirm": 9
+    },
+    "290": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 6,
+        "listen": 4,
+        "probe": 24,
+        "guide": 69,
+        "connect": 3,
+        "affirm": 163
+    },
+    "395": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 5,
+        "listen": 0,
+        "probe": 104,
+        "guide": 143,
+        "connect": 42,
+        "affirm": 36
+    },
+    "303": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 7,
+        "guide": 18,
+        "connect": 6,
+        "affirm": 51
+    },
+    "409": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 10,
+        "guide": 5,
+        "connect": 1,
+        "affirm": 4
+    },
+    "314": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 2,
+        "listen": 2,
+        "probe": 2,
+        "guide": 13,
+        "connect": 6,
+        "affirm": 18
+    },
+    "351": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "422": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 7,
+        "listen": 1,
+        "probe": 25,
+        "guide": 42,
+        "connect": 40,
+        "affirm": 446
+    },
+    "339": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "281": {
+        "instruct": 4,
+        "practice": 1,
+        "correct": 52,
+        "listen": 1,
+        "probe": 224,
+        "guide": 121,
+        "connect": 52,
+        "affirm": 409
+    },
+    "255": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 3,
+        "guide": 4,
+        "connect": 2,
+        "affirm": 3
+    },
+    "374": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 2,
+        "guide": 4,
+        "connect": 0,
+        "affirm": 11
+    },
+    "275": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 1
+    },
+    "274": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "370": {
+        "instruct": 14,
+        "practice": 1,
+        "correct": 9,
+        "listen": 4,
+        "probe": 30,
+        "guide": 49,
+        "connect": 275,
+        "affirm": 307
+    },
+    "279": {
+        "instruct": 0,
+        "practice": 2,
+        "correct": 10,
+        "listen": 1,
+        "probe": 123,
+        "guide": 125,
+        "connect": 23,
+        "affirm": 128
+    },
+    "280": {
+        "instruct": 8,
+        "practice": 18,
+        "correct": 130,
+        "listen": 48,
+        "probe": 539,
+        "guide": 448,
+        "connect": 125,
+        "affirm": 2346
+    },
+    "313": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 11,
+        "guide": 7,
+        "connect": 7,
+        "affirm": 19
+    },
+    "364": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 6,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 3
+    },
+    "286": {
+        "instruct": 5,
+        "practice": 2,
+        "correct": 34,
+        "listen": 21,
+        "probe": 243,
+        "guide": 532,
+        "connect": 62,
+        "affirm": 552
+    },
+    "249": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 0
+    },
+    "259": {
+        "instruct": 5,
+        "practice": 0,
+        "correct": 0,
+        "listen": 1,
+        "probe": 8,
+        "guide": 10,
+        "connect": 4,
+        "affirm": 8
+    },
+    "352": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 11,
+        "connect": 0,
+        "affirm": 3
+    },
+    "412": {
+        "instruct": 1,
+        "practice": 1,
+        "correct": 2,
+        "listen": 0,
+        "probe": 45,
+        "guide": 9,
+        "connect": 26,
+        "affirm": 253
+    },
+    "429": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 5,
+        "listen": 0,
+        "probe": 34,
+        "guide": 49,
+        "connect": 40,
+        "affirm": 31
+    },
+    "430": {
+        "instruct": 1,
+        "practice": 2,
+        "correct": 2,
+        "listen": 1,
+        "probe": 22,
+        "guide": 17,
+        "connect": 14,
+        "affirm": 35
+    },
+    "288": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 3,
+        "listen": 3,
+        "probe": 9,
+        "guide": 52,
+        "connect": 7,
+        "affirm": 71
+    },
+    "442": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 1
+    },
+    "330": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 3,
+        "guide": 5,
+        "connect": 3,
+        "affirm": 14
+    },
+    "346": {
+        "instruct": 2,
+        "practice": 1,
+        "correct": 0,
+        "listen": 0,
+        "probe": 13,
+        "guide": 61,
+        "connect": 10,
+        "affirm": 36
+    },
+    "437": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 7,
+        "guide": 6,
+        "connect": 0,
+        "affirm": 9
+    },
+    "285": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 111,
+        "listen": 8,
+        "probe": 224,
+        "guide": 20,
+        "connect": 3,
+        "affirm": 45
+    },
+    "310": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 10,
+        "guide": 14,
+        "connect": 2,
+        "affirm": 27
+    },
+    "389": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 11,
+        "guide": 19,
+        "connect": 1,
+        "affirm": 24
+    },
+    "406": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 18,
+        "listen": 10,
+        "probe": 341,
+        "guide": 140,
+        "connect": 61,
+        "affirm": 78
+    },
+    "433": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 9,
+        "guide": 8,
+        "connect": 0,
+        "affirm": 2
+    },
+    "256": {
+        "instruct": 17,
+        "practice": 0,
+        "correct": 11,
+        "listen": 7,
+        "probe": 486,
+        "guide": 1320,
+        "connect": 88,
+        "affirm": 621
+    },
+    "377": {
+        "instruct": 4,
+        "practice": 0,
+        "correct": 1274,
+        "listen": 17,
+        "probe": 653,
+        "guide": 197,
+        "connect": 47,
+        "affirm": 123
+    },
+    "291": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 4,
+        "listen": 0,
+        "probe": 7,
+        "guide": 19,
+        "connect": 5,
+        "affirm": 18
+    },
+    "325": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 3,
+        "connect": 1,
+        "affirm": 5
+    },
+    "360": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 1,
+        "affirm": 0
+    },
+    "308": {
+        "instruct": 4,
+        "practice": 0,
+        "correct": 9,
+        "listen": 10,
+        "probe": 186,
+        "guide": 84,
+        "connect": 150,
+        "affirm": 504
+    },
+    "432": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 2,
+        "guide": 6,
+        "connect": 5,
+        "affirm": 3
+    },
+    "267": {
+        "instruct": 14,
+        "practice": 0,
+        "correct": 25,
+        "listen": 7,
+        "probe": 146,
+        "guide": 217,
+        "connect": 41,
+        "affirm": 572
+    },
+    "410": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 6,
+        "guide": 14,
+        "connect": 0,
+        "affirm": 15
+    },
+    "418": {
+        "instruct": 1,
+        "practice": 1,
+        "correct": 8,
+        "listen": 10,
+        "probe": 713,
+        "guide": 772,
+        "connect": 302,
+        "affirm": 187
+    },
+    "427": {
+        "instruct": 5,
+        "practice": 1,
+        "correct": 8,
+        "listen": 0,
+        "probe": 27,
+        "guide": 17,
+        "connect": 20,
+        "affirm": 23
+    },
+    "445": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "322": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 8,
+        "guide": 3,
+        "connect": 0,
+        "affirm": 9
+    },
+    "431": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 2,
+        "guide": 1,
+        "connect": 3,
+        "affirm": 2
+    },
+    "269": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 3,
+        "listen": 1,
+        "probe": 37,
+        "guide": 96,
+        "connect": 8,
+        "affirm": 164
+    },
+    "349": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "391": {
+        "instruct": 3,
+        "practice": 0,
+        "correct": 3,
+        "listen": 0,
+        "probe": 10,
+        "guide": 10,
+        "connect": 4,
+        "affirm": 15
+    },
+    "304": {
+        "instruct": 1,
+        "practice": 1,
+        "correct": 0,
+        "listen": 3,
+        "probe": 3,
+        "guide": 11,
+        "connect": 0,
+        "affirm": 22
+    },
+    "338": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 38,
+        "listen": 5,
+        "probe": 391,
+        "guide": 343,
+        "connect": 99,
+        "affirm": 309
+    },
+    "384": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "327": {
+        "instruct": 5,
+        "practice": 0,
+        "correct": 51,
+        "listen": 3,
+        "probe": 182,
+        "guide": 141,
+        "connect": 26,
+        "affirm": 161
+    },
+    "343": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 1
+    },
+    "284": {
+        "instruct": 2,
+        "practice": 0,
+        "correct": 8,
+        "listen": 1,
+        "probe": 92,
+        "guide": 22,
+        "connect": 95,
+        "affirm": 284
+    },
+    "428": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 18,
+        "guide": 23,
+        "connect": 9,
+        "affirm": 8
+    },
+    "345": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "348": {
+        "instruct": 5,
+        "practice": 1,
+        "correct": 12,
+        "listen": 4,
+        "probe": 93,
+        "guide": 184,
+        "connect": 23,
+        "affirm": 209
+    },
+    "273": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 4
+    },
+    "319": {
+        "instruct": 1,
+        "practice": 1,
+        "correct": 0,
+        "listen": 0,
+        "probe": 51,
+        "guide": 17,
+        "connect": 14,
+        "affirm": 30
+    },
+    "420": {
+        "instruct": 0,
+        "practice": 1,
+        "correct": 0,
+        "listen": 0,
+        "probe": 13,
+        "guide": 8,
+        "connect": 1,
+        "affirm": 8
+    },
+    "312": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "271": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 1,
+        "probe": 6,
+        "guide": 5,
+        "connect": 0,
+        "affirm": 2
+    },
+    "383": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 23,
+        "listen": 1,
+        "probe": 9,
+        "guide": 12,
+        "connect": 20,
+        "affirm": 30
+    },
+    "434": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 5,
+        "listen": 0,
+        "probe": 6,
+        "guide": 11,
+        "connect": 5,
+        "affirm": 9
+    },
+    "324": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 6,
+        "connect": 0,
+        "affirm": 0
+    },
+    "247": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 13,
+        "guide": 11,
+        "connect": 1,
+        "affirm": 6
+    },
+    "277": {
+        "instruct": 7,
+        "practice": 8,
+        "correct": 78,
+        "listen": 22,
+        "probe": 377,
+        "guide": 207,
+        "connect": 168,
+        "affirm": 1892
+    },
+    "398": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 4,
+        "guide": 4,
+        "connect": 1,
+        "affirm": 13
+    },
+    "344": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 0
+    },
+    "385": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 2,
+        "probe": 25,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 1
+    },
+    "331": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 1,
+        "listen": 1,
+        "probe": 19,
+        "guide": 13,
+        "connect": 1,
+        "affirm": 18
+    },
+    "251": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 12,
+        "guide": 8,
+        "connect": 4,
+        "affirm": 15
+    },
+    "444": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "248": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 2,
+        "listen": 0,
+        "probe": 7,
+        "guide": 12,
+        "connect": 4,
+        "affirm": 16
+    },
+    "336": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 23,
+        "listen": 4,
+        "probe": 224,
+        "guide": 176,
+        "connect": 44,
+        "affirm": 152
+    },
+    "454": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 4,
+        "listen": 2,
+        "probe": 25,
+        "guide": 23,
+        "connect": 21,
+        "affirm": 17
+    },
+    "452": {
+        "instruct": 1,
+        "practice": 0,
+        "correct": 2,
+        "listen": 1,
+        "probe": 31,
+        "guide": 14,
+        "connect": 7,
+        "affirm": 23
+    },
+    "342": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 3,
+        "guide": 2,
+        "connect": 2,
+        "affirm": 5
+    },
+    "414": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 0,
+        "affirm": 0
+    },
+    "438": {
+        "instruct": 0,
+        "practice": 2,
+        "correct": 19,
+        "listen": 3,
+        "probe": 34,
+        "guide": 28,
+        "connect": 7,
+        "affirm": 34
+    },
+    "294": {
+        "instruct": 10,
+        "practice": 2,
+        "correct": 26,
+        "listen": 10,
+        "probe": 155,
+        "guide": 393,
+        "connect": 24,
+        "affirm": 698
+    },
+    "353": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 10,
+        "guide": 39,
+        "connect": 1,
+        "affirm": 8
+    },
+    "262": {
+        "instruct": 32,
+        "practice": 1,
+        "correct": 19,
+        "listen": 5,
+        "probe": 172,
+        "guide": 273,
+        "connect": 91,
+        "affirm": 349
+    },
+    "393": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 0,
+        "guide": 1,
+        "connect": 0,
+        "affirm": 0
+    },
+    "355": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 0,
+        "listen": 0,
+        "probe": 1,
+        "guide": 0,
+        "connect": 1,
+        "affirm": 3
+    },
+    "408": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 1,
+        "listen": 0,
+        "probe": 32,
+        "guide": 36,
+        "connect": 9,
+        "affirm": 11
+    },
+    "306": {
+        "instruct": 0,
+        "practice": 0,
+        "correct": 9,
+        "listen": 1,
+        "probe": 85,
+        "guide": 90,
+        "connect": 118,
+        "affirm": 72
+    }
+}

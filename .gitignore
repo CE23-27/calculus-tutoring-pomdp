@@ -1,0 +1,39 @@
+# --- Model checkpoints (pulled from the Modal volume; see README) ---
+checkpoints/
+planner/checkpoints/
+*.bson
+# Ignore JLD2 artifacts, but keep the small template-embeddings cache that ships with the repo
+*.jld2
+!planner/template_embeddings_cache.jld2
+
+# --- Training data (multi-GB; never committed) ---
+preprocessed_dialogues_*.json
+preprocessed_dialogues_*.csv
+
+# --- Secrets / env ---
+.env
+.env.*
+*.key
+*_secret*
+secrets.toml
+
+# --- Julia ---
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/build.log
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.modal/
+*.egg-info/
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
