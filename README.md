@@ -1,4 +1,4 @@
-# Calculus Tutoring Pomdp
+# Adaptive Tutoring Engine
 
 *An RL tutor that plans over what a student doesn't understand — not just what they asked.*
 
