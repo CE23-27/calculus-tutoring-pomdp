@@ -1,4 +1,4 @@
-# Adaptive Tutoring Engine
+# Calculus Tutoring Pomdp
 
 *An RL tutor that plans over what a student doesn't understand — not just what they asked.*
 
@@ -101,6 +101,45 @@ flowchart TD
 ```
 
 </details>
+
+---
+
+## Example Interaction
+
+> *Illustrative walkthrough of the per-turn flow — constructed to show how the planner reasons. It is not a captured production session; numbers are representative, and the system has not been evaluated for learning outcomes (see Limitations).*
+
+A student asks what looks like a surface question. The planner's job is to decide what the exchange is *really* about, then act on it.
+
+**Turn 1 — student:** *"I tried the product rule on x² sin(x) and got 2x·cos(x). Is that right?"*
+
+The orchestrator embeds the turn (MathBERT → 768-d) and calls `/plan` with the current belief over the 245 concepts. The belief flags elevated difficulty not on "product rule" as a label, but on its *statement*: the student differentiated each factor and multiplied the results.
+
+```json
+// POST /plan  (abridged)
+{
+  "problem_text": "derivative of x^2 sin(x)",
+  "turn_count": 1,
+  "x_features": [ /* speaker flag + 245 concept relevances */ ]
+}
+// ->
+{
+  "action": 4,                     // probe
+  "relevance_delta": [ /* 245 */ ],  // "product-rule statement" relevance ↑
+  "speaker_next": "student"
+}
+```
+
+Rather than correcting the answer outright (`instruct`, action 1), the planner selects **probe** (action 4) — it wants to locate the misunderstanding before committing. The generator turns that action into wording:
+
+**Tutor:** *"Before we check the answer — in words, what does the product rule tell you to do with the two pieces x² and sin(x)?"*
+
+**Turn 2 — student:** *"Take the derivative of each and multiply them together?"*
+
+That response sharpens the belief: the gap is the *rule's statement*, not arithmetic. The planner updates (relevance on "product-rule statement" stays high; "differentiation arithmetic" drops) and, following a coherent **probe → guide** transition, selects **guide** (action 5):
+
+**Tutor:** *"Almost — multiplying the two derivatives is the single most common version of this slip. The rule keeps each piece intact while differentiating the other:  (first)·(derivative of second) + (derivative of first)·(second). Want to re-derive it one term at a time?"*
+
+Across the exchange the belief moves from diffuse difficulty toward one identified gap, and the action sequence (probe → guide) is exactly what the reward's coherence term favors. The LLM only ever writes the wording; *what to do* is the planner's decision.
 
 ---
 
